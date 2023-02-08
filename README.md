@@ -22,8 +22,8 @@
 ![bigspring-light](https://demo.gethugothemes.com/thumbnails/bigspring-light.png)
 👉🏻[View Live Preview](https://study.tekstedia.com)
 
-<!-- download -->
-## Download
+<!-- features -->
+## Features
 
 - A student dashboard for booking and managing tutoring sessions
 - A tutor dashboard for managing schedules and creating custom lesson plans
