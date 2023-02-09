@@ -12,7 +12,7 @@ jobs:
       uses: actions/checkout@v3
 
     - name: Run Next build script
-      run: npm && npm run build
+      run: npm install && npm run build
       env:
         CI: false
     
@@ -22,4 +22,4 @@ jobs:
         server: ftp.teksfoundation.org
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /home2/teksfoun/study.tekstedia.com/
+        server-dir: /study.tekstedia.com/
