@@ -14,7 +14,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
-        server: www.tekstedia.com
+        server: ftp.teksfoundation.org
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /study.tekstedia.com/
+        server-dir: /home2/teksfoun/study.tekstedia.com/
