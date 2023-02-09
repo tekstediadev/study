@@ -9,14 +9,14 @@ const Header = () => {
   //router
   const router = useRouter();
 
-  // distructuring the main menu from menu object
+  // destructuring the main menu from menu object
   const { main } = menu;
 
   // states declaration
   const [navOpen, setNavOpen] = useState(false);
 
   // logo source
-  const { logo } = config.site;
+  // const { logo } = config.site;
   const { enable, label, link } = config.nav_button;
 
   return (
@@ -24,7 +24,8 @@ const Header = () => {
       <nav className="navbar container">
         {/* logo */}
         <div className="order-0">
-          <Logo src={logo} />
+          {/* <Logo src={logo} /> */}
+          <h1 className="navbar-brand">Study</h1>
         </div>
 
         {/* navbar toggler */}

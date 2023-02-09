@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "Bigspring Light Nextjs",
+    "title": "Study",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "48",
-    "logo_text": "Bigspring Light"
+    "logo_text": "Study@TeksTedia"
   },
 
   "settings": {
@@ -24,13 +24,13 @@
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
-    "copyright": "Designed and Developed By [Themefisher](https://themefisher.com/)"
+    "footer_content": "Study and upskill yourself in Technology, Business, and Design.",
+    "copyright": "Powered by [TeksTedia](https://tekstedia.com/)"
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "TeksTedia",
     "meta_image": "",
-    "meta_description": "A SAAS template for nextjs"
+    "meta_description": "A platform for Tutoring at TeksTedia"
   }
 }
